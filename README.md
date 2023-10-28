@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://opgc.me/#/users/R4mel" target="_blank"><img src="https://api.opgc.me/githubs/users/R4mel/tag/?theme=basic" /></a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=R4mel)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **R4mel/R4mel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
