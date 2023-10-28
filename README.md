@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=R4mel)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=R4mel&show_icons=true&theme=tokyonight)
 <!--
 **R4mel/R4mel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
