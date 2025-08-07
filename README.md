@@ -12,8 +12,9 @@
 
 | Organization                |  Certificate        | Score  | Period      |
 |-------------------------|------------------|-------|-------------|
-| IITP |TOPCIT (Test Of Practical Competency in ICT)  | 574   | 2025.05     |
+| IITP |TOPCIT  | 574   | 2025.05     |
 | YBM | TOEIC | 810 | 2025.02|
+|한국산업인력공단| 정보처리기사  | PASS  | 2025.09
 
 <br/>
 
