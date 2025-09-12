@@ -11,12 +11,11 @@
 ## Certificates
 | Organization                |  Certificate        | Score  | Period      |
 |-------------------------|------------------|-------|-------------|
-| IITP |TOPCIT  | 574   | 2025.05     |
-| YBM | TOEIC | 810 | 2025.02|
-<!--
 |한국산업인력공단| 정보처리기사  | PASS  | 2025.09
 |한국데이터산업진흥원| SQLD  | PASS  | 2025.09
--->
+| IITP |TOPCIT  | 574   | 2025.05     |
+| YBM | TOEIC | 810 | 2025.02|
+
 <div>
   <br/>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R4mel&layout=compact&hide=issues" alt="Git Prim stats" height="160px" /></a>
