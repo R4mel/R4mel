@@ -18,9 +18,3 @@
 | IITP |TOPCIT  | 605(Lv 3)   | 2025.11     |
 | IITP |TOPCIT  | 574(Lv 3)   | 2025.05     |
 | YBM | TOEIC | 810 | 2025.02|
-
-<div>
-  <br/>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R4mel&layout=compact&hide=issues" alt="Git Prim stats" height="160px" /></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=R4mel" alt="Git stats" height="160px" /></a>
-</div>
