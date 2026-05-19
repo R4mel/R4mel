@@ -18,6 +18,3 @@
 | IITP |TOPCIT  | 605(Lv 3)   | 2025.11     |
 | IITP |TOPCIT  | 574(Lv 3)   | 2025.05     |
 | YBM | TOEIC | 810 | 2025.02|
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=siezedayy)](https://solved.ac/siezedayy)
